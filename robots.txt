@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-hy2pyi.juragan89site.site/sitemap.xml
